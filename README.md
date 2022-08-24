@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🌱 Olá pessoal, eu sou Thalles Bhering iniciante em desenvolvimento full stack! 👋
 
 <!--
 **Tbhering/Tbhering** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
