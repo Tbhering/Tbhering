@@ -2,7 +2,7 @@
 ##
 
 - 🔭 Hoje trabalho como: Técnico em elétrica
-- 🌱 Estou estudando: Desenvolvimento full stack!
+- 🌱 Estou estudando: Ciência da computação (Bacharel)e Desenvolvimento full stack!
 - 🤔 Estou buscando: Primeira vaga na área como desenvolvedor front-end
 - 🧰 Ferramentas: Vs Code, Git e GitHub
 - 📫Contate-me pelo whatsapp: (31) 9 8350-4393
