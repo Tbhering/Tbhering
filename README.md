@@ -1,4 +1,4 @@
-🌱 Olá !!! Eu sou Thalles Bhering iniciante em desenvolvimento full stack! 👋
+🌱 Olá !!! Eu sou Thalles Bhering atualmente web developer👋
 ##
 
 - 🔭 Hoje trabalho como: Técnico em elétrica
