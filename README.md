@@ -2,9 +2,9 @@
 ##
 
 - 🔭 Hoje trabalho como: Técnico de planejamento
-- 🌱 Estou estudando: Ciência de Dados
+- 🌱 Estou estudando: Ciência de Dados pela faculdade Descomplica e profissionalizante pela DNC
 - 🤔 Estou buscando: Migração de carreira para a área de dados
-- 🧰 Ferramentas:
+- 🧰 Ferramentas: VsCode, Excel, Power Point, Word, IA's - (GPT / Copilot / Gemini), AutoCad 
 - 📫Contate-me pelo whatsapp: (31) 9 8350-4393
 
 ##
