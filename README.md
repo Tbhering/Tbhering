@@ -1,10 +1,10 @@
-🌱 Olá !!! Eu sou Thalles Bhering atualmente web developer👋
+🌱 Olá !!! Eu sou Thalles Bhering atualmente estudante de ciência de dados👋
 ##
 
-- 🔭 Hoje trabalho como: Técnico em elétrica
-- 🌱 Estou estudando: Ciência da computação e Desenvolvimento full stack!
-- 🤔 Estou buscando: Primeira vaga na área como desenvolvedor front-end
-- 🧰 Ferramentas: Vs Code, Git e GitHub
+- 🔭 Hoje trabalho como: Técnico de planejamento
+- 🌱 Estou estudando: Ciência de Dados
+- 🤔 Estou buscando: Migração de carreira para a área de dados
+- 🧰 Ferramentas:
 - 📫Contate-me pelo whatsapp: (31) 9 8350-4393
 
 ##
